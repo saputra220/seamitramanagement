@@ -1,2 +1,0 @@
-# seamitramanagement
-management income
